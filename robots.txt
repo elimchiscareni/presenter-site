@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://presenter-site.pages.dev/sitemap.xml
